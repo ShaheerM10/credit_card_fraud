@@ -86,10 +86,3 @@ This project focuses on detecting fraudulent credit card transactions using vari
 This project demonstrates effective ways to deal with imbalanced datasets, especially in fraud detection scenarios. By comparing different models and techniques, you can gain insights into the strengths and weaknesses of various approaches for handling real-world data imbalance challenges.
 
 ---
-
-## How to Use:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shaheerm10/credit-fraud-detection
-   cd credit-fraud-detection
